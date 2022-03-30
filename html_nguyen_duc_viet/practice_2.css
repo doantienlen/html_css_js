@@ -1,0 +1,32 @@
+h2 {
+    width: 500px ;
+    margin-left: 400px ;
+    font-family: segoe UI  ;
+}
+p { 
+    margin-bottom: 100px;
+}
+hr {
+    width: 500px;
+    color: rgb(255, 255, 255);
+}
+h4 {
+    width: 450px ;
+    margin-left: 450px ;
+    font-family: segoe UI ;
+}
+ul {
+    margin-left: 425px ;
+    font-family: segoe UI ;
+    font-size: 13px;
+    color: rgba(60, 65, 64, 0.678);
+}
+div {
+    width: 450px ;
+    margin-left: 450px ;
+    font-family: segoe UI ;
+}
+img { 
+    width: 450px ;
+    margin-left: 450px ;
+}
