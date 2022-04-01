@@ -1,0 +1,18 @@
+/* để viết được thẻ con trong một class 
+ta dùng  lệnh " name_class + space + card" */
+/* ví dụ bây giờ t muốn gọi thẻ h3 trong class
+số 1, nếu như làm cánh thông thường thì chúng ta luôn 
+phải đặt một class cho thẻ 3, nhưng để nhanh hơn ta làm theo 
+cánh sau */
+div.so1 h3{
+    color: red;
+}
+div.so2 h3{
+    color: blue;
+}
+div.mauxanh p{
+    color: green;
+}
+div.chto p {
+    font-size: 100px ;
+}
