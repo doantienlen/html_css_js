@@ -1,0 +1,14 @@
+div.small_news_blocks {
+    display: flex ;
+    width: 300px ; 
+    justify-content: space-between;
+}
+div.small_news_blocks  .left{
+    width: 60px ;
+}
+div.small_news_blocks  .right{
+    width: 240px ;
+}
+div.small_news_blocks .left    img{
+    width: 100% ;
+}
