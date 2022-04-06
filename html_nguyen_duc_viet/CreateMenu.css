@@ -1,11 +1,16 @@
 ul.menungang {
     /* hai thuộc tính display: flex và
     list-style:none dùng để làm menu  */
-    display: flex;
+    
+    /* display: flex; */
     list-style: none;
     width: 900px;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
+}
+ul.menungang li{
+    display: inline;
 }
 .menuobove{
     background-color: rgb(0, 162, 255);
@@ -26,7 +31,7 @@ ul.menungang a {
     dùng để căn giữa 
     */
     padding-top:6px  ;
-    display: block;
+    display: inline-block;
     padding-left: 6px ;
     padding-right: 6px;
     padding-bottom: 6px ;
@@ -37,6 +42,4 @@ ul.menungang a {
  */
 ul.menungang a:hover {
     background-color: rgb(45, 114, 114);
-    padding-top: 3px;
-    padding-bottom: 9px;
 }
